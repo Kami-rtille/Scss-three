@@ -1,0 +1,15 @@
+//Variables
+@import 'base/_variables.scss';
+
+//Generic
+@import 'generic/reset.scss';
+@import 'generic/normalize.scss';
+
+// Components
+@import 'components/button';
+@import 'components/searchbar';
+
+//Layouts
+@import 'layout/section';
+@import 'layout/header';
+@import 'layout/footer';
